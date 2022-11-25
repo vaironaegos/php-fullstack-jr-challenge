@@ -1,4 +1,4 @@
-# Desafio Técnico para Desenvolvedor(a) PHP Jr.
+# Desafio Técnico para Desenvolvedor(a) Fullstack PHP Jr.
 
 Seja muito bem vindo(a) para o desafio técnico para cargo de Pessoa Desenvolvedora Fullstack Jr (PHP) na Astrotech Software House. Abaixo você poderá ver tudo o que você precisa para poder executar esse teste e participar de um processo seletivo aqui conosco.
 
