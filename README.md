@@ -20,7 +20,7 @@ Você deverá desenvolver uma ferramenta de TodoList usando
 - Mostrar o seu melhor em CSS3
 - Você poderá ficar a vontade de usar algum Kit de Interface gráfica, como por exemplo [Bootstrap](https://getbootstrap.com), [Material UI](https://mui.com/material-ui/) para construção da sua interface gráfica. 
 
-## Regas
+## Regras
 
 - *PHP*: você não poderá usar nenhum framework fullstack do mercado, como [Laravel](https://laravel.com), [Symfony](https://symfony.com) e etc. A ideia é que você construa toda aplicação do zero explorando todo o seu conhecimento com a linguagem;
 - *Orientação a Objetos:* é muito importante que você mostre tudo o que você sabe do paradigma OO aqui, para que possamos entender em que nível você está no momento; 
